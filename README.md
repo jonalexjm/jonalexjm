@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Actualmente trabajo como desarrollador de software en puntos Colombia, me encanta las nuevas tecnologías y sobre todo los proyectos que tengas alcance para muchas personas. 
+Actualmente trabajo como desarrollador de software en puntos Colombia, me encanta las nuevas tecnologías y sobre todo los proyectos que tengan alcance para muchas personas. 
 
 
 ## 🌐 Socials:
